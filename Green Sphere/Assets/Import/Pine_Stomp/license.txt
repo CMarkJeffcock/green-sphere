@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pine Stomp
+* source:	https://sketchfab.com/3d-models/pine-stomp-b778eefb204a484fba1f2eb85fdc16e6
+* author:	rafael.gutierrez (https://sketchfab.com/rafael.gutierrez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pine Stomp" (https://sketchfab.com/3d-models/pine-stomp-b778eefb204a484fba1f2eb85fdc16e6) by rafael.gutierrez (https://sketchfab.com/rafael.gutierrez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
