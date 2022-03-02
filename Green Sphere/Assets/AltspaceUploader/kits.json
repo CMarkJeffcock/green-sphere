@@ -1,0 +1,31 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "1947852859554923453",
+            "Name": "Mark Miscellaneous",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1947852859554923453_mark_miscellaneous/Bouncing Ball.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1947852859554923453_mark_miscellaneous/Sourdough.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1947852859554923453_mark_miscellaneous/Cube.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
